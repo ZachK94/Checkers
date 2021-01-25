@@ -1,0 +1,2 @@
+# Checkers
+Implementation for terminal
